@@ -7,7 +7,7 @@ import sys
 
 auto_setup(__file__)
 
-regulartime = 2
+regulartime = 23
 longtime = 5
 network = "com.android.WifiState
 network2 = "com.android.network"
