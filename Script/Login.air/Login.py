@@ -5,7 +5,6 @@ from airtest.core.api import *
 
 auto_setup(__file__)
 
-
 touch(Template(r"tpl1583222497715.png", record_pos=(-0.341, -0.542), resolution=(1242, 2688)))
 touch(Template(r"tpl1583223231143.png", record_pos=(-0.238, -0.564), resolution=(1242, 2688)))
 
