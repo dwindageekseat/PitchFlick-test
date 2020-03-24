@@ -73,3 +73,4 @@ AboutPhone()
 wifiCheck()
 checkDisplay()
 checkSecurity()
+#adding
